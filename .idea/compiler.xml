@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="onenet" />
+        <module name="aliyun" />
+        <module name="tencent" />
+        <module name="ctwing" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aliyun" target="15" />
+      <module name="ctwing" target="15" />
+      <module name="fusion" target="15" />
+      <module name="onenet" target="15" />
+      <module name="tencent" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

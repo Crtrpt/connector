@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aliyun/aliyun.iml" filepath="$PROJECT_DIR$/aliyun/aliyun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ctwing/ctwing.iml" filepath="$PROJECT_DIR$/ctwing/ctwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fusion.iml" filepath="$PROJECT_DIR$/fusion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onenet/onenet.iml" filepath="$PROJECT_DIR$/onenet/onenet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tencent/tencent.iml" filepath="$PROJECT_DIR$/tencent/tencent.iml" />
+    </modules>
+  </component>
+</project>
